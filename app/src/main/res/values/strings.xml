@@ -3,7 +3,19 @@
     <string name="email_or_username">Email or Username</string>
     <string name="password">Password</string>
     <string name="log_in">Log in</string>
+    <string name="email">E-mail</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have Account?</string>
     <string name="create_an_account">Create an account</string>
     <string name="this_field_is_required">This field is required.</string>
+    <string name="not_valid_email">It is not a valid email adress</string>
+    <string name="username_too_short">Username is too short</string>
+    <string name="password_too_short">Password is too short</string>
+    <string name="username_too_long">Username is too long</string>
+    <string name="capital_letter">Password must include at least one capital letter</string>
+    <string name="small_letter">Password must include at least one small letter</string>
+    <string name="number">Password must include at least one number</string>
+    <string name="special">Password must include at least one special character</string>
     <string name="identifier_is_too_short">Identifier is too short.</string>
 </resources>
